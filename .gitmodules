@@ -1,0 +1,6 @@
+[submodule "Flipkart-Health-Wallet"]
+	path = Flipkart-Health-Wallet
+	url = https://github.com/Keshav-Pahwa/Flipkart-Health-Wallet.git
+[submodule "Flipkart_Health_Backend"]
+	path = Flipkart_Health_Backend
+	url = https://github.com/Ved142/Flipkart_Health_Backend.git
